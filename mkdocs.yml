@@ -34,6 +34,9 @@ extra:
     - name: English
       link: /en/ 
       lang: en
+    - name: Catalan
+      link: /ca/
+      lang: ca
 
 markdown_extensions:
   - admonition
