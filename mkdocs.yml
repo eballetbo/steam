@@ -1,0 +1,46 @@
+site_name: Open STEAM Education Resources
+site_description: Documentation for the Open STEAM Education Resources Project
+site_author: Enric Balletbo i Serra
+repo_url: https://github.com/eballetbo/steam
+
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: en/README.md
+  - Material resources:
+    - Montessori Numeric Blocks Bricks: 'en/number-blocks-bricks/README.md'
