@@ -39,6 +39,5 @@ extra:
       lang: ca
 
 nav:
-  - Home: README.md
-  - Material resources:
-    - Montessori Numeric Blocks Bricks: 'number-blocks-bricks/README.md'
+  - About the project: README.md
+  - Montessori Numeric Blocks Bricks: 'number-blocks-bricks/README.md'

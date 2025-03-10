@@ -39,6 +39,5 @@ extra:
       lang: ca
 
 nav:
-  - Inici: README.md
-  - Materials i recursos:
-    - Blocs numèrics Montessori: 'number-blocks-bricks/README.md'
+  - Sobre el projecte: README.md
+  - Blocs numèrics Montessori: 'number-blocks-bricks/README.md'
