@@ -1,11 +1,11 @@
-site_name: Open STEAM Education Resources
-site_description: Documentation for the Open STEAM Education Resources Project
+site_name: Recursos educatius STEAM
+site_description: Documentació per al projecte Open STEAM Education Resources
 site_author: Enric Balletbo i Serra
 repo_url: https://github.com/eballetbo/steam
 
 theme:
   name: material
-  language: en
+  language: ca
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -38,10 +38,7 @@ extra:
       link: /ca/
       lang: ca
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-plugins:
-  - projects
+nav:
+  - Inici: README.md
+  - Materials i recursos:
+    - Blocs numèrics Montessori: 'number-blocks-bricks/README.md'

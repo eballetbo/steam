@@ -38,10 +38,7 @@ extra:
       link: /ca/
       lang: ca
 
-markdown_extensions:
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-plugins:
-  - projects
+nav:
+  - Home: README.md
+  - Material resources:
+    - Montessori Numeric Blocks Bricks: 'number-blocks-bricks/README.md'
