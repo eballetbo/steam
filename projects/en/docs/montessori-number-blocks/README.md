@@ -1,8 +1,8 @@
-# Montessori Numeric Blocks Bricks
+# Montessori Number Blocks
 
-Welcome to the collaborative repository for Montessori numeric blocks bricks activities! Here you'll find a collection of creative and educational activities to help children learn mathematics in a fun and practical way.
+Welcome to the collaborative repository for Montessori number blocks activities! Here you'll find a collection of creative and educational activities to help children learn mathematics in a fun and practical way.
 
-## What are Montessori Numeric Blocks?
+## What are Montessori Number Blocks?
 
 Montessori numeric blocks are a hands-on learning material designed to help children understand numbers and basic mathematical concepts.  Here's a breakdown of their key features:
 
@@ -22,7 +22,7 @@ Montessori numeric blocks are a hands-on learning material designed to help chil
 * **Self-Correction:** The proportional sizing allows children to check their own work. If their tower doesn't add up to the correct height, they know they need to adjust.
 * **Engaging and Fun:** Turns learning math into a playful and interactive experience.
 
-![1 to 10 Montessori numeric blocks image](../assets/images/number-blocks-bricks.svg)
+![1 to 10 Montessori number blocks image](../assets/images/montessori-number-blocks.svg)
 
 ## How to Use the Activities
 
@@ -40,7 +40,7 @@ Montessori numeric blocks are a hands-on learning material designed to help chil
 
 ## Do It Yourself: Create your own material
 
-* [Designing Montessori Number Blocks with Inkscape](guides/designing-number-blocks-bricks-with-inkscape.md)
+* [Designing Montessori Number Blocks with Inkscape](guides/designing-montessori-number-blocks-with-inkscape.md)
 
 ## How to Contribute
 

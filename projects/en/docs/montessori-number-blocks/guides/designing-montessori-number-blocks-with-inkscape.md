@@ -1,6 +1,6 @@
 # Designing Montessori Number Blocks with Inkscape: A Step-by-Step Guide
 
-This guide will walk you through the process of creating the design files for Montessori Number Blocks (also known as Number Rods or Numeric Blocks Bricks) using Inkscape, a free and open-source vector graphics editor. These blocks are a fundamental material in Montessori education for teaching basic math concepts.
+This guide will walk you through the process of creating the design files for Montessori Number Blocks (also known as Number Rods or Number Blocks Bricks) using Inkscape, a free and open-source vector graphics editor. These blocks are a fundamental material in Montessori education for teaching basic math concepts.
 
 ## Prerequisites
 
@@ -72,11 +72,11 @@ This step combines the creation of the remaining blocks and the addition of the 
 
 1. **Save as SVG:** Go to File > Save As.
 2. **File Type:** Choose "Plain SVG" as the file type.
-3. **File Name:** Give your file a descriptive name (e.g., `number-blocks-bricks.svg`).
+3. **File Name:** Give your file a descriptive name (e.g., `montessori-number-blocks.svg`).
 4. **Save:** Click "Save."
 5. **Save as DXF:** Go to File > Save a Copy.
 6. **File Type:** Choose "Desktop Cutting Plotter (AutoCAD DXF R14) (*.dxf)".
-7. **File Name:** Give your file a descriptive name (e.g., `number-blocks-bricks.dxf`).
+7. **File Name:** Give your file a descriptive name (e.g., `montessori-number-blocks.dxf`).
 8. **Save:** Click "Save."
 
 ## Tips and Considerations
@@ -89,4 +89,4 @@ This step combines the creation of the remaining blocks and the addition of the 
 
 ## Conclusion
 
-By following these steps, you can design your own Montessori Number Blocks Bricks using Inkscape. These blocks are a fantastic tool for teaching children about numbers and mathematics. Remember to take your time, test your designs, and have fun with it!
+By following these steps, you can design your own Montessori Numeric Blocks using Inkscape. These blocks are a fantastic tool for teaching children about numbers and mathematics. Remember to take your time, test your designs, and have fun with it!
