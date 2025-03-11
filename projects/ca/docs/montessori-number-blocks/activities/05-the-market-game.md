@@ -2,7 +2,7 @@
 
 **Objectiu:** Practicar la suma i la resta en un context pràctic i quotidià, simulant una compra.
 
-**Materials:** Blocs de números Montessori (de l'1 al 10), objectes amb "preus" assignats.
+**Materials:** Blocs numèrics Montessori (de l'1 al 10), objectes amb "preus" assignats.
 
 **Instruccions:**
 

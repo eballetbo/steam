@@ -2,7 +2,7 @@
 
 **Objectiu:** Familiaritzar-se amb els patrons i la seqüenciació lògica, desenvolupant el pensament lògic.
 
-**Materials:** Blocs de Números Montessori (de l'1 al 10)
+**Materials:** Blocs numèrics Montessori (de l'1 al 10)
 
 **Instruccions:**
 

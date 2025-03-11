@@ -1,12 +1,12 @@
-# Maons Numèrics Montessori
+# Blocs numèrics Montessori
 
-Benvingut al repositori col·laboratiu per a activitats amb maons numèrics Montessori! Aquí trobaràs una col·lecció d'activitats creatives i educatives per ajudar els nens a aprendre matemàtiques d'una manera divertida i pràctica.
+Benvingut al repositori col·laboratiu per a activitats amb els blocs numèrics Montessori! Aquí trobaràs una col·lecció d'activitats creatives i educatives per ajudar els nens a aprendre matemàtiques d'una manera divertida i pràctica.
 
-## Què són els Maons Numèrics Montessori?
+## Què són els Blocs numèrics Montessori?
 
-Els maons numèrics Montessori són un material d'aprenentatge pràctic dissenyat per ajudar els nens a comprendre els nombres i els conceptes matemàtics bàsics. Aquí tens un desglossament de les seves característiques principals:
+Els blocs numèrics Montessori són un material d'aprenentatge pràctic dissenyat per ajudar els nens a comprendre els nombres i els conceptes matemàtics bàsics. Aquí tens un desglossament de les seves característiques principals:
 
-* **Maons de Fusta:** Normalment fets de fusta, ofereixen una experiència natural i tàctil.
+* **Blocs de Fusta:** Normalment fets de fusta, ofereixen una experiència natural i tàctil.
 * **Representació Numèrica:** Cada maó representa un nombre de l'1 al 10.
 * **Mida Proporcional:** La mida de cada maó correspon directament al valor del nombre que representa. Per exemple, el maó "1" és el més petit, mentre que el maó "10" és el més gran. Això permet als nens comprendre visualment el concepte de quantitat.
 * **Versatilitat:** Es poden utilitzar per a una varietat d'activitats, que inclouen:
@@ -15,14 +15,14 @@ Els maons numèrics Montessori són un material d'aprenentatge pràctic dissenya
   * **Suma i Resta:** Combinar o treure físicament maons per visualitzar operacions bàsiques.
   * **Valor Posicional:** Preparar el terreny per comprendre unitats, desenes i centenes.
 
-**Beneficis d'utilitzar maons numèrics Montessori:**
+**Beneficis d'utilitzar els blocs numèrics Montessori:**
 
 * **Aprenentatge Concret:** Proporciona una representació tangible de nombres abstractes.
 * **Aprenentatge Visual:** Ajuda els nens a "veure" conceptes matemàtics.
 * **Autocorrecció:** La mida proporcional permet als nens comprovar el seu propi treball. Si la seva torre no suma l'alçada correcta, saben que han d'ajustar.
 * **Atractiu i Divertit:** Converteix l'aprenentatge de les matemàtiques en una experiència lúdica i interactiva.
 
-![Imatge de l'1 a 10 dels blocs numèrics Montessori](../assets/images/number-blocks-bricks.svg)
+![Imatge de l'1 a 10 dels blocs numèrics Montessori](../assets/images/montessori-number-blocks.svg)
 
 ## Com Utilitzar les Activitats
 
@@ -40,7 +40,7 @@ Els maons numèrics Montessori són un material d'aprenentatge pràctic dissenya
 
 ## Fes-ho tu mateix: Crea el teu propi material
 
-* [Dissenyant Maons Numèrics Montessori amb Inkscape](guides/designing-number-blocks-bricks-with-inkscape.md)
+* [Dissenyant els blocs numèrics Montessori amb Inkscape](guides/designing-montessori-number-blocks-with-inkscape.md)
 
 ## Com Contribuir
 

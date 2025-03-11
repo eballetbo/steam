@@ -2,7 +2,7 @@
 
 **Objectiu:** Comparar nombres i practicar els conceptes de "més gran que" i "menys que" en un joc competitiu.
 
-**Materials:** Blocs de nombres Montessori (de l'1 al 10)
+**Materials:** Blocs numèrics Montessori (de l'1 al 10)
 
 **Instruccions:**
 

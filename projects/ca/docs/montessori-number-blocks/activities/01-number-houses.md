@@ -2,7 +2,7 @@
 
 **Objectiu:** Descompondre nombres i comprendre les diferents combinacions que els formen, visualitzant possibles combinacions.
 
-**Materials:** Blocs de Números Montessori (de l'1 al 10), paper i llapis (opcional)
+**Materials:** Blocs numèrics Montessori (de l'1 al 10), paper i llapis (opcional)
 
 **Instruccions:**
 
