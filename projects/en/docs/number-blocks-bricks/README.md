@@ -22,6 +22,8 @@ Montessori numeric blocks are a hands-on learning material designed to help chil
 * **Self-Correction:** The proportional sizing allows children to check their own work. If their tower doesn't add up to the correct height, they know they need to adjust.
 * **Engaging and Fun:** Turns learning math into a playful and interactive experience.
 
+![1 to 10 Montessori numeric blocks image](../assets/images/number-blocks-bricks.svg)
+
 ## How to Use the Activities
 
 1. **Explore**: Navigate through this folder to find the activities.

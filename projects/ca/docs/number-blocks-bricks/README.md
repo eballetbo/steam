@@ -22,6 +22,8 @@ Els maons numèrics Montessori són un material d'aprenentatge pràctic dissenya
 * **Autocorrecció:** La mida proporcional permet als nens comprovar el seu propi treball. Si la seva torre no suma l'alçada correcta, saben que han d'ajustar.
 * **Atractiu i Divertit:** Converteix l'aprenentatge de les matemàtiques en una experiència lúdica i interactiva.
 
+![Imatge de l'1 a 10 dels blocs numèrics Montessori](../assets/images/number-blocks-bricks.svg)
+
 ## Com Utilitzar les Activitats
 
 1. **Explora**: Navega per aquesta carpeta per trobar les activitats.
