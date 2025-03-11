@@ -24,5 +24,8 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
+      - name: Install mkdocs-material-insiders
+        env:
+          INSIDERS_TOKEN: ${{ secrets.INSIDERS_TOKEN }}
+        run: pip install git+https://$INSIDERS_TOKEN@github.com/squidfunk/mkdocs-material-insiders.git@9.6.7-insiders-4.53.15
       - run: mkdocs gh-deploy --force
