@@ -31,12 +31,13 @@ theme:
 
 extra:
   alternate:
-    - name: English
-      link: /en/ 
-      lang: en
+    # Order the languages alphabetically by name
     - name: Catalan
       link: /ca/
       lang: ca
+    - name: English
+      link: /en/ 
+      lang: en
 
 nav:
   - Sobre el projecte: README.md
