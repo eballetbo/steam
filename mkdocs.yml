@@ -1,6 +1,7 @@
 site_name: Open STEAM Education Resources
 site_description: Documentation for the Open STEAM Education Resources Project
 site_author: Enric Balletbo i Serra
+site_url: https://eballetbo.github.io/steam/
 repo_url: https://github.com/eballetbo/steam
 
 theme:
