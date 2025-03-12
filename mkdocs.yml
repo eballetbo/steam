@@ -46,3 +46,6 @@ markdown_extensions:
 
 plugins:
   - projects
+
+nav:
+  - " ": index.md
